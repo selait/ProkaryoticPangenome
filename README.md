@@ -15,21 +15,21 @@ For details regarding genome intersections and gene commonality see the Citation
 The function Main.m takes as input file names and paramters.
 
 Filenames:
-in_TreeFileName - input phylogentic tree in Newick format file name
-out_ATGC_COG_FileName - name of output file for simulated dataset
-out_GeneCommonalityFileName - name of output file for gene commonality
-out_GenomeIntersectionsFileName - name of output file for genome intersections
+- in_TreeFileName - input phylogentic tree in Newick format file name
+- out_ATGC_COG_FileName - name of output file for simulated dataset
+- out_GeneCommonalityFileName - name of output file for gene commonality
+- out_GenomeIntersectionsFileName - name of output file for genome intersections
 
  
 Simulation parameters:
-p1_p - class 1 gain rate
-p1_m - class 1 loss rate
-p2_p - class 2 gain rate
-p2_m - class 2 loss rate
-x1 - initial number of class 1 genes
-x2 - initial number of class 2 genes
-L1 - class 1 gene pool size
-L2 - class 2 gene pool size 
+- p1_p - class 1 gain rate
+- p1_m - class 1 loss rate
+- p2_p - class 2 gain rate
+- p2_m - class 2 loss rate
+- x1 - initial number of class 1 genes
+- x2 - initial number of class 2 genes
+- L1 - class 1 gene pool size
+- L2 - class 2 gene pool size 
 
 Test.m is a sample file calling Main.m, to be used with input phylogenetic tree ATGC001.tre  
 
