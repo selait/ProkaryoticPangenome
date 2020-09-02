@@ -5,7 +5,7 @@ Genomes are repsrestend as arrays of 1's and 0's, indicating presence or absence
 The evolutionary dynamics involves gene gain and gene loss.
 It is assumed that there are two classes of genes with different gain and loss rates.
 
-The function Main.m call other functions, and generates three output csv files: 
+The function Main.m calls other functions, and generates three output csv files: 
 - The simulated dataset
 - Gene commonality
 - Genome intersections
