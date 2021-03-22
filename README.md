@@ -35,4 +35,4 @@ Test.m is a sample file calling Main.m, to be used with input phylogenetic tree 
 
 
 Written by Itamar Sela 2020
-Citation: https://www.biorxiv.org/content/10.1101/2020.04.14.041392v1
+Citation: https://doi.org/10.1186/s12915-021-00960-2
